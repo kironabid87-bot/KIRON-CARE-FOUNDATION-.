@@ -1,0 +1,1 @@
+console.log('Booking module ready');

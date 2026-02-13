@@ -1,0 +1,6 @@
+body{margin:0;font-family:Arial;background:#eef;}
+header{padding:20px;text-align:center;background:#5b5fc7;color:#fff;}
+section{padding:20px}
+#peopleGrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px}
+.card{background:#fff;padding:12px;border-radius:10px}
+canvas#bg{position:fixed;top:0;left:0;z-index:-1}
